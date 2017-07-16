@@ -1,0 +1,14 @@
+body {
+    background-color: #404040;
+    background-image: url(../img/bg.jpg);
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-repeat: repeat-x;
+    background-position: center 0px;
+}
+body, td, th {
+    font-family: 微软雅黑;
+    font-size: 14px;
+}
