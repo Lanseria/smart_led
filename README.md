@@ -28,8 +28,9 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 本前端项目利用 `vue.js` 开发完成
 依靠 `webpack` 前端打包工具
 前端用到了特殊的 `css` 动态语言， `stylus-loader` 转化模块
+若后台用到了 `socket.io` 通信，本项目也同样支持 `socket.io` 通信
 
-build 产生的 dist/ 文件夹必须在服务器条件下运行，不然会有找不到文件报错
+ `build`  产生的  `dist/`  文件夹必须在服务器条件下运行，不然会有找不到文件报错
 
  
 ## 截图效果
